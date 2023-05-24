@@ -1,6 +1,6 @@
 ## 👋 Hello there! Welcome to my GitHub profile!
 
-🔬 I'm certified data analyst/scientist with a background in medicine and biotechnology. 
+🔬 I'm a certified data analyst/scientist with a background in medicine and biotechnology. 
 
 💉🧬 As a former medical doctor and junior research fellow, I have a deep understanding of clinical data collection and analysis.
 
