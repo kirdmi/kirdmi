@@ -1,4 +1,4 @@
-## 👋 Hello there! Welcome to my GitHub profile!
+### 👋 Hello there! Welcome to my GitHub profile!
 
 🔬 I'm a certified data analyst/scientist with a background in medicine and biotechnology. 
 
